@@ -1,12 +1,16 @@
 # Hey There!👋
 
-I'm <strong>Kalash Jain</strong>, a developer from India, pursuing <strong>Bachelors in Computer Science and Engineering</strong>. I'm currently working with <strong>C++ and Python</strong> for my projects. I love learning about new tech, specially <strong>AR/VR, robotics and Machine Learning. I love to work in teams and make new connections!</strong> My hobbies are sports, dance and some random stuff which are random indeed. I'm excited to collaborate with more new people !!<br><br>
-<strong>You can contact me through [mail.](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kalashjain513@gmail.com)</strong>
+<h5>I'm <strong>Kalash Jain</strong>, a developer from India, pursuing <strong>Bachelors in Computer Science and Engineering</strong>.</h5>
+<h5>I'm currently working with <strong>C++ and Python</strong> for my projects. </h5>
+<h5>I love learning about new tech, specially <strong>AR/VR, robotics and Machine Learning.</h5>
+<h5>I love to work in teams and make new connections!</strong> My hobbies are sports, dance and some random stuff which are random indeed.</h5>
+<h5>I'm excited to collaborate with more new people !!</h5>
+<h5><strong>You can contact me through <a href = "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kalashjain513@gmail.com">mail.</a> (kalashjain513@gmail.com)</strong><h5>
 
 #
 
 ### Projects
-[BoBot](https://github.com/kalashjain23/BoBot) - A Discord Bot made during a hackathon but I still continue to develop it because I like it soooo much!!
+<h4><a href = "https://github.com/kalashjain23/BoBot">BoBot</a> - A Discord Bot made during a hackathon but I still continue to develop it because I like it soooo much!!</h4>
 
 #
 
