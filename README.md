@@ -1,11 +1,11 @@
 # Hey There!👋
 
-<h5>I'm <strong>Kalash Jain</strong>, a developer from India, pursuing <strong>Bachelors in Computer Science and Engineering</strong>.</h5>
-<h5>I'm currently working with <strong>C++ and Python</strong> for my projects. </h5>
-<h5>I love learning about new tech, specially <strong>AR/VR, robotics and Machine Learning.</h5>
-<h5>I love to work in teams and make new connections!</strong> My hobbies are sports, dance and some random stuff which are random indeed.</h5>
-<h5>I'm excited to collaborate with more new people !!</h5>
-<h5><strong>You can contact me through <a href = "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kalashjain513@gmail.com">mail.</a> (kalashjain513@gmail.com)</strong><h5>
+<h4>I'm <strong>Kalash Jain</strong>, a developer from India, pursuing <strong>Bachelors in Computer Science and Engineering</strong>.</h4>
+<h4>I'm currently working with <strong>C++ and Python</strong> for my projects. </h4>
+<h4>I love learning about new tech, specially <strong>AR/VR, robotics and Machine Learning.</h4>
+<h4>I love to work in teams and make new connections!</strong> My hobbies are sports, dance and some random stuff which are random indeed.</h4>
+<h4>I'm excited to collaborate with more new people !!</h4>
+<h4><strong>You can contact me through <a href = "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kalashjain513@gmail.com">mail.</a> (kalashjain513@gmail.com)</strong></h4>
 
 #
 
