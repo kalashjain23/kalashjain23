@@ -11,7 +11,7 @@
 #
 
 ### Projects
-<h4><a href = "https://github.com/kalashjain23/BoBot">BoBot</a> - A Discord Bot made during a hackathon but I still continue to develop it because I like it soooo much!!</h4>
+<h4><a href = "https://github.com/kalashjain23/BoBot">BoBot</a> - My first discord bot!!!</h4>
 
 #
 
