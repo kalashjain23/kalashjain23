@@ -3,9 +3,8 @@
 - <h4>I'm <strong>Kalash Jain</strong>, a developer from India, pursuing <strong>Bachelors in Computer Science and Engineering</strong>.</h4>
 - <h4>I'm currently working with <strong>C++ and Python</strong> for my projects. </h4>
 - <h4>I love learning about new tech, especially <strong>AR/VR, Robotics and Machine Learning.</strong></h4>
-- <h4>My hobbies are sports, dance and some random stuff which are random indeed.</h4>
+- <h4>My hobbies are sports and dance.</h4>
 - <h4>I love to work in a team and make new connections!</h4>
-- <h4>I'm excited to collaborate with more new people !!</h4>
 <h4><strong>Do contact me through <a href = "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kalashjain513@gmail.com">mail</a> !! (kalashjain513@gmail.com)</strong></h4>
 
 #
