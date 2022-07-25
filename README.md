@@ -10,7 +10,8 @@
 #
 
 ### Projects
-<h4><a href = "https://github.com/kalashjain23/BoBot">BoBot</a> - My first discord bot!!!</h4>
+<h4><a href = "https://github.com/kalashjain23/BoBot">BoBot</a> - My first discord bot !</h4>
+<h4><a href = "https://github.com/kalashjain23/TweetMod">TweetMod</a> - Application that moderates your tweet and warns if its offensive!</h4>
 
 #
 
