@@ -9,8 +9,9 @@
 #
 
 ### Projects
-<h4><a href = "https://github.com/kalashjain23/BoBot">BoBot</a> - My first discord bot !</h4>
+<h4><a href = "https://github.com/kalashjain23/BoBot">BoBot</a> - A multifunctional discord bot !</h4>
 <h4><a href = "https://github.com/kalashjain23/TweetMod">TweetMod</a> - Application that moderates your tweet and warns you if its offensive!</h4>
+<h4><a href - "https://github.com/kalashjain23/HeART-of-the-Sea">HeART of the Sea</a> - Game inspired by Pirates of the Carribean!!</h4>
 
 #
 
