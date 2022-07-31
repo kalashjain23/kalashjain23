@@ -39,6 +39,6 @@
 [<img align = "left" alt = "Likedin" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align = "left" alt = "Twitter" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]<br/>
 
-[linkedin]: https://www.linkedin.com/in/kalash-jain-b16994241/
+[linkedin]: https://www.linkedin.com/in/kalashjain513/
 [twitter]: https://twitter.com/_kalashjain_
 
