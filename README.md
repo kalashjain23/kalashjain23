@@ -21,7 +21,7 @@
 [<img align = "left" alt = "Python" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />][python]
 [<img align = "left" alt = "C++" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />][cpp]
 [<img align = "left" alt = "Github" width = "33px" src = "https://cdn-icons-png.flaticon.com/512/1051/1051275.png" />][github]
-[<img align = "left" alt = "Visual Studio Code" width = "33px" src = "https://img.icons8.com/fluency/344/visual-studio-code-2019.png" />][vscode]
+[<img align = "left" alt = "Visual Studio Code" width = "33px" src = "https://img.icons8.com/color/344/visual-studio-code-2019.png" />][vscode]
 [<img align = "left" alt = "Jupyter Notebook" width = "33px" src = "https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" />][jupyter]
 [<img align = "left" alt = "Linux" width = "33px" src = "https://img.icons8.com/color/344/linux--v1.png" />][linux]<br>
 
@@ -29,7 +29,7 @@
 [python]: https://cdn-icons-png.flaticon.com/512/5968/5968350.png
 [cpp]: https://cdn-icons-png.flaticon.com/512/6132/6132222.png
 [github]: https://cdn-icons-png.flaticon.com/512/1051/1051275.png
-[vscode]: https://img.icons8.com/fluency/344/visual-studio-code-2019.png
+[vscode]: https://img.icons8.com/color/344/visual-studio-code-2019.png
 [linux]: https://img.icons8.com/color/344/linux--v1.png
 [jupyter]: https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png
 
