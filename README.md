@@ -2,9 +2,8 @@
 
 - <h4>I'm <strong>Kalash Jain</strong>, a developer from India, pursuing <strong>Bachelors in Computer Science and Engineering</strong>.</h4>
 - <h4>I'm currently working with <strong>C++ and Python</strong> for my projects. </h4>
-- <h4>I love learning about new tech, especially <strong>AR/VR, Robotics and Machine Learning.</strong></h4>
-- <h4>I love to work in teams and meet new peeps!</h4>
-<h4><strong>Do contact me through <a href = "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kalashjain513@gmail.com">mail</a> !! (kalashjain513@gmail.com)</strong></h4>
+- <h4>I love learning about new tech, especially when it's related to <strong>Robotics and Machine Learning.</strong></h4>
+- <h4>Do checkout some of my <a href = "https://github.com/kalashjain23/open-source-contributions">open-source contributions!</a></h4>
 
 #
 
@@ -44,8 +43,9 @@
 
 ### Let's Connect...
 [<img align = "left" alt = "Likedin" width = "40px" src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align = "left" alt = "Twitter" width = "40px" src = "https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]<br/>
+[<img align = "left" alt = "Twitter" width = "40px" src = "https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
+[<img align = "left" alt = "Gmail" width = "40px" src = "https://cdn-icons-png.flaticon.com/512/5968/5968534.png" />][gmail]<br>
 
 [linkedin]: https://www.linkedin.com/in/kalashjain513/
 [twitter]: https://twitter.com/_kalashjain_
-
+[gmail]: mailto:kalashjain513@gmail.com
