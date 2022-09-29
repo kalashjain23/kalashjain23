@@ -1,51 +1,43 @@
-# Hey There!👋
+# Hi, I'm Kalash!👋
 
-- <h4>I'm <strong>Kalash Jain</strong>, a developer from India, pursuing <strong>Bachelors in Computer Science and Engineering</strong>.</h4>
-- <h4>I'm currently working with <strong>C++ and Python</strong> for my projects. </h4>
-- <h4>I love learning about new tech, especially when it's related to <strong>Robotics and Machine Learning.</strong></h4>
-- <h4>Do checkout some of my <a href = "https://github.com/kalashjain23/open-source-contributions">open-source contributions!</a></h4>
+<div style="display: flex">
+  <a href="https://twitter.com/_kalashjain_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kalashjain513/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+I'm an undergraduate pursuing Bachelors in Computer Science and Engineering! <br><br>
+Mostly working with Python and C++ but I love trying out new tech, especially if it's related to ROBOTICS 🤖!<br>
+I like supporting open-source projects and have <a href="https://github.com/kalashjain23/open-source-contributions">contributed</a> to many of them as well!<br><br>
+
+Click <a href="https://linktr.ee/kalashh">here</a> to know more about me!
 
 #
 
 ### Projects...
-<h4><a href = "https://github.com/kalashjain23/BoBot">BoBot</a> - A multifunctional discord bot !</h4>
-<h4><a href = "https://github.com/kalashjain23/TweetMod">TweetMod</a> - Application that moderates your tweet and warns you if its offensive!</h4>
-<h4><a href = "https://github.com/kalashjain23/HeART-of-the-Sea">HeART Of The Sea</a> - Game inspired by Pirates of the Carribean!!</h4>
-
-
-#
-
-### Languages...
-[<img align = "left" alt = "Python" width = "50px" src = "https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />][python]
-[<img align = "left" alt = "C++" width = "50px" src = "https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />][cpp]
-[<img align = "left" alt = "Java" width = "50px" src = "https://cdn-icons-png.flaticon.com/512/5968/5968282.png" />][java]<br><br>
-
-[python]: https://cdn-icons-png.flaticon.com/512/5968/5968350.png
-[cpp]: https://cdn-icons-png.flaticon.com/512/6132/6132222.png
-[java]: https://cdn-icons-png.flaticon.com/512/5968/5968282.png
+<strong><a href = "https://github.com/kalashjain23/BoBot">BoBot</a></strong> - A multifunctional discord bot!<br>
+<strong><a href = "https://github.com/kalashjain23/TweetMod">TweetMod</a></strong> - Application that moderates your tweet and warns you if its offensive!<br>
+<strong><a href = "https://github.com/kalashjain23/HeART-of-the-Sea">HeART Of The Sea</a></strong> - Game inspired by Pirates of the Carribean!!
 
 #
 
-### Tools and Frameworks...
-[<img align = "left" alt = "Git" width = "50px" src = "https://img.icons8.com/color/344/git.png" />][git]
-[<img align = "left" alt = "Github" width = "50px" src = "https://cdn-icons-png.flaticon.com/512/1051/1051275.png" />][github]
-[<img align = "left" alt = "Visual Studio Code" width = "50px" src = "https://img.icons8.com/color/344/visual-studio-code-2019.png" />][vscode]
-[<img align = "left" alt = "Jupyter Notebook" width = "50px" src = "https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" />][jupyter]
-[<img align = "left" alt = "Linux" width = "50px" src = "https://img.icons8.com/color/344/linux--v1.png" />][linux]<br><br>
-
-[git]: https://img.icons8.com/color/344/git.png
-[github]: https://github.com/kalashjain23
-[vscode]: https://img.icons8.com/color/344/visual-studio-code-2019.png
-[linux]: https://img.icons8.com/color/344/linux--v1.png
-[jupyter]: https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png
-
-#
-
-### Let's Connect...
-[<img align = "left" alt = "Likedin" width = "40px" src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align = "left" alt = "Twitter" width = "40px" src = "https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
-[<img align = "left" alt = "Gmail" width = "40px" src = "https://cdn-icons-png.flaticon.com/512/5968/5968534.png" />][gmail]<br>
-
-[linkedin]: https://www.linkedin.com/in/kalashjain513/
-[twitter]: https://twitter.com/_kalashjain_
-[gmail]: mailto:kalashjain513@gmail.com
+### My Stack...
+<center>
+  <div style="display: flex">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/git-%34495E.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+    
+  </div>
+  <br>
+  <td style="border: none">
+      <img height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=kalashjain23&theme=react&show_icons=true&count_private=true" />
+   </td>
+</center>
