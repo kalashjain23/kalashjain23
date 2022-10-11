@@ -35,8 +35,4 @@ Click <a href="https://linktr.ee/kalashh">here</a> to know more about me!
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
     
   </div>
-  <br>
-  <td style="border: none">
-      <img height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=kalashjain23&theme=react&show_icons=true&count_private=true" />
-   </td>
 </center>
