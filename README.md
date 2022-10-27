@@ -36,3 +36,5 @@ Click <a href="https://linktr.ee/kalashh">here</a> to know more about me!
     
   </div>
 </center>
+
+[![@kalash's Holopin board](https://holopin.me/kalash)](https://holopin.io/@kalash)
