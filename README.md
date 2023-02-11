@@ -8,18 +8,20 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-I'm an undergraduate pursuing Bachelors in Computer Science and Engineering! <br><br>
-Mostly working with Python and C++ but I love trying out new tech, especially if it's related to ROBOTICS 🤖!<br>
-I like supporting open-source projects and have <a href="https://github.com/kalashjain23/open-source-contributions">contributed</a> to many of them as well!<br><br>
 
-Click <a href="https://linktr.ee/kalashh">here</a> to know more about me!
+I'm an undergraduate pursuing Bachelors in Computer Science and Engineering!  
+  
+Mostly working with Python and C++ but I love trying out new tech, especially if it's related to ROBOTICS 🤖!  
+I like supporting open-source projects and have [contributed](https://github.com/kalashjain23/open-source-contributions) to many of them as well!  
+  
+Click [here](https://linktr.ee/kalashh) to know more about me!
 
 #
 
 ### Projects...
-<strong><a href = "https://github.com/kalashjain23/BoBot">BoBot</a></strong> - A multifunctional discord bot!<br>
-<strong><a href = "https://github.com/kalashjain23/TweetMod">TweetMod</a></strong> - Application that moderates your tweet and warns you if its offensive!<br>
-<strong><a href = "https://github.com/kalashjain23/HeART-of-the-Sea">HeART Of The Sea</a></strong> - Game inspired by Pirates of the Carribean!!
+[**TurtleChaser**](https://github.com/kalashjain23/turtlechaser) - A turtle chaser made in ROS.  
+[**BoBot**](https://github.com/kalashjain23/BoBot) - A multifunctional discord bot!  
+[**TweetMod**](https://github.com/kalashjain23/TweetMod) - Application that moderates your tweet and warns you if its offensive!  
 
 #
 
