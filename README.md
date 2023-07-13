@@ -9,20 +9,23 @@
   </a>
 </div>
 
-I'm an undergraduate pursuing Bachelors in Computer Science and Engineering!  
+I'm an undergraduate pursuing Bachelor's in Computer Science and Engineering!  
   
-You'll mostly find me working with Python and C++ but I love trying out new tech too, especially if it's related to ROBOTICS 🤖!  
+You'll mostly find me working with Python and C++ but I love trying out new tech as well! 
 Currently exploring stuff related to AI and Robotics :D  
 Click [here](https://linktr.ee/kalashh) to know more about me!
 
 #
 
 ### Projects...
-[**Rover**](https://github.com/kalashjain23/rover) → A rover capable of doing mapping, localisation and navigation with the help of several sensors. ( ROS2 )  
+
+[**ControllerGPT**](https://github.com/kalashjain23/ControllerGPT) → An AI controller that can control your robot and perform the tasks that you want. ( ROS2, OpenAI API, Roslibpy )  
+  
+[**Rover**](https://github.com/kalashjain23/rover) → A rover capable of doing mapping, localization, and navigation with the help of several sensors. ( ROS2 )  
+  
 [**MoveWithIt**](https://github.com/kalashjain23/move_with_it) → MoveWithIt helps you to control robotic arms just by your hand gestures. (  ROS2, MoveIt2 )  
+  
 [**HandsFree_Sim**](https://github.com/kalashjain23/handsfree_sim) → Controller to control the turtle in the turtlesim just by your hand gestures! ( ROS2 )  
-[**TurtleChaser**](https://github.com/kalashjain23/turtlechaser) → Turtle chasing other turtles in turtlesim on its own. ( ROS2 )  
-[**BoBot**](https://github.com/kalashjain23/BoBot) → A multifunctional discord bot!  
 
 #
 
