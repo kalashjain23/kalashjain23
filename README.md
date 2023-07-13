@@ -11,9 +11,9 @@
 
 I'm an undergraduate pursuing Bachelor's in Computer Science and Engineering!  
   
-You'll mostly find me working with Python and C++ but I love trying out new tech as well! 
-Currently exploring stuff related to AI and Robotics :D  
-Click [here](https://linktr.ee/kalashh) to know more about me!
+You'll mostly find me working with _**Python and C++**_ but I love trying out new tech as well!   
+Currently exploring stuff related to _**AI and Robotics**_ :D  
+[All my links to connect with me!](https://linktr.ee/kalashh)
 
 #
 
